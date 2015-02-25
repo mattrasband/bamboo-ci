@@ -1,0 +1,26 @@
+{
+  "name": "bamboo-ci",
+  "version": "0.1.0",
+  "description": "Simple library to consume the API provided by Atlassian's Bamboo CI Server",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/nerdwaller/bamboo-ci"
+  },
+  "keywords": [
+    "Bamboo",
+    "API",
+    "Atlassian"
+  ],
+  "author": "Matt Rasband <matt.rasband@gmail.com> (http://github.com/nerdwaller)",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/nerdwaller/bamboo-ci/issues"
+  },
+  "homepage": "https://github.com/nerdwaller/bamboo-ci",
+  "dependencies": {
+    "q": "^1.2.0",
+    "request": "^2.53.0"
+  }
+}
