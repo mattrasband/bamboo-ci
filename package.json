@@ -1,6 +1,6 @@
 {
   "name": "bamboo-ci",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple library to consume the API provided by Atlassian's Bamboo CI Server",
   "main": "index.js",
   "scripts": {},
