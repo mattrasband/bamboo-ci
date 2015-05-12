@@ -1,3 +1,5 @@
+**Deprecation Notice:** I no longer work in a company that utilizes bamboo, so I can no longer test future work.  Please feel free to fork and take it over to add new features.
+
 Bamboo-CI
 ========
 
